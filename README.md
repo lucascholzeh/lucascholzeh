@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor com foco em **Front-end** e forte interesse em construir interfaces modernas, responsivas e centradas no usuário. Trabalho principalmente com **Vue 3** e o ecossistema JavaScript/TypeScript, e tenho experiência prática construindo o back-end das minhas aplicações com **Node.js** e **Python**.
+Desenvolvedor com foco em Front-end e forte interesse em construir interfaces modernas, responsivas e centradas no usuário. Sou estudante de Engenharia de Software e estou em aprendizado constante, sempre buscando novas tecnologias e boas práticas. Trabalho principalmente com Vue 3 e o ecossistema JavaScript/TypeScript, e tenho experiência prática construindo o back-end das minhas aplicações com Node.js e Python.
 
 ---
 
