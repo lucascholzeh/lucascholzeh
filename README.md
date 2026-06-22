@@ -43,10 +43,6 @@ Desenvolvedor com foco em Front-end e forte interesse em construir interfaces mo
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
       <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-      <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
     </td>
   </tr>
   <tr>
@@ -54,8 +50,6 @@ Desenvolvedor com foco em Front-end e forte interesse em construir interfaces mo
     <td>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
       <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
     </td>
   </tr>
   <tr>
@@ -78,7 +72,6 @@ Desenvolvedor com foco em Front-end e forte interesse em construir interfaces mo
 - **Interfaces responsivas mobile-first** — layouts fluidos com Tailwind CSS, design adaptável e foco em usabilidade.
 - **APIs REST com Node.js** — back-end em camadas (rotas → controllers → services → repositories), autenticação JWT, validação com Zod e integração com bancos PostgreSQL.
 - **Integração com serviços externos** — consumo de APIs de terceiros e web scraping de dados com Firecrawl.
-- **Engenharia de dados** — pipelines com Apache Spark e MinIO, processamento de dados com Databricks.
 - **Desenvolvimento mobile** — apps com React Native (Expo) e nativo Android com Kotlin e Jetpack Compose.
 
 ---
