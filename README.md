@@ -72,7 +72,7 @@ Desenvolvedor com foco em Front-end e forte interesse em construir interfaces mo
 - **Interfaces responsivas mobile-first** — layouts fluidos com Tailwind CSS, design adaptável e foco em usabilidade.
 - **APIs REST com Node.js** — back-end em camadas (rotas → controllers → services → repositories), autenticação JWT, validação com Zod e integração com bancos PostgreSQL.
 - **Integração com serviços externos** — consumo de APIs de terceiros e web scraping de dados com Firecrawl.
-- **Desenvolvimento mobile** — apps com React Native (Expo) e nativo Android com Kotlin e Jetpack Compose.
+- **Desenvolvimento mobile** — apps com React Native (Expo).
 
 ---
 
