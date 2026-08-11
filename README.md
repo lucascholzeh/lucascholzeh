@@ -13,6 +13,7 @@ Desenvolvedor com foco em Front-end e forte interesse em construir interfaces mo
     <td valign="top"><b>Front-end</b></td>
     <td>
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt"/>
       <img src="https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=quasar&logoColor=1976D2" alt="Quasar"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
