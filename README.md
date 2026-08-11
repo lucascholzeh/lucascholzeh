@@ -1,8 +1,8 @@
 <h1>Lucas Scholze Hoffmann</h1>
 
-Desenvolvedor com foco em Front-end e forte interesse em construir interfaces modernas, responsivas e centradas no usuário. Sou estudante de Engenharia de Software e estou em aprendizado constante, sempre buscando novas tecnologias e boas práticas. Trabalho principalmente com Vue 3 e o ecossistema JavaScript/TypeScript, e tenho experiência prática construindo o back-end das minhas aplicações com Node.js e Python.
+Desenvolvedor com foco em Front-end e forte interesse em construir interfaces modernas, responsivas e centradas no usuário. Sou estudante de Engenharia de Software e estou em aprendizado constante, sempre buscando novas tecnologias e boas práticas. Trabalho principalmente com Vue 3, React e o ecossistema JavaScript/TypeScript, e tenho experiência prática construindo o back-end das minhas aplicações com Node.js e Python.
 
-- 🎓 Engenharia de Software — 5ª fase
+- 🎓 Engenharia de Software — 6ª fase
 - 📍 Araranguá, SC
 ---
 
@@ -69,7 +69,8 @@ Desenvolvedor com foco em Front-end e forte interesse em construir interfaces mo
 
 ## 💡 O que eu entrego
 
-- **Aplicações Vue completas** — SPAs com Vue 3, Composition API (`<script setup>`), gerenciamento de estado com Pinia, roteamento com Vue Router e composables reutilizáveis.
+- **Aplicações Vue** — SPAs com Vue 3, Composition API (`<script setup>`), gerenciamento de estado com Pinia, roteamento com Vue Router e composables reutilizáveis.
+- **Aplicações React** — SPAs com React, hooks, gerenciamento de estado, roteamento com React Router e componentização reutilizável.
 - **Interfaces responsivas mobile-first** — layouts fluidos com Tailwind CSS, design adaptável e foco em usabilidade.
 - **APIs REST com Node.js** — back-end em camadas (rotas → controllers → services → repositories), autenticação JWT, validação com Zod e integração com bancos PostgreSQL.
 - **Integração com serviços externos** — consumo de APIs de terceiros e web scraping de dados com Firecrawl.
